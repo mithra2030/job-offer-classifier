@@ -1,4 +1,3 @@
 flask
-re
 joblib
 sklearn
